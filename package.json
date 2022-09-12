@@ -2,7 +2,7 @@
   "name": "cold-blue-theme",
   "displayName": "Cold Blue Theme ",
   "description": "Another VS Code best dark theme in the list is Cold Blue Theme",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "publisher": "ColdBlueTheme",
   "icon": "logo.png",
   "repository": {
@@ -23,8 +23,6 @@
     "blue dark",
     "dark blue"
   ],
-
-
   "contributes": {
     "themes": [
       {
