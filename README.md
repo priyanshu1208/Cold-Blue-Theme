@@ -1,7 +1,7 @@
 <h1 align="center">
   <br>
   <a href="https://marketplace.visualstudio.com/items?itemName=jdinhlife.gruvbox">
-    <img src"logo.png">
+    <img src = "logo.png">
   </a>
   <br>
   Cold Blue Theme
@@ -10,22 +10,11 @@
 
 <h4 align="center">Dark theme to VS Code editor</h4>
 
-<p align="center">
-  <a href="https://marketplace.visualstudio.com/items?itemName=jdinhlife.gruvbox">
-    <img src="https://vsmarketplacebadge.apphb.com/version/Cold%20Blue%20theme.svg" alt="Version">
-  </a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=jdinhlife.gruvbox">
-    <img src="https://vsmarketplacebadge.apphb.com/installs/jdinhlife.gruvbox.svg?style=flat-square" alt="Installs">
-  </a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=jdinhlife.gruvbox">
-    <img src="https://vsmarketplacebadge.apphb.com/rating/jdinhlife.gruvbox.svg?style=flat-square" alt="Ratings">
-  </a>
-</p>
 
 ## About
 
 A [Cold Blue](https://marketplace.visualstudio.com/items?itemName=ColdBlueTheme.cold-blue-theme) theme for VS Code editor for those who like to code at night
-
+<br>
 ## Installation
 
 Launch *Quick Open*
@@ -44,17 +33,18 @@ ext install ColdBlueTheme.cold-blue-theme
 
 -   Dark - Medium Contrast
 
-
+<br>
 ## Contributing
 
 Please, report issues/bugs and suggestions for improvements to the issue [here](https://github.com/priyanshu1208/Cold-Blue-Theme/issues).
 
 We're not users of Light versions so we need help to make light versions better. Please contribute if you have any suggestions. **PRs are welcomed!** :rocket:
-
+<br>
 
 ## Release Notes
 
 See [changelog](CHANGELOG.md).
+<br>
 
 ## Credits
 
@@ -62,4 +52,4 @@ Special thank to [Priyanshu](https://github.com/priyanshu1208) the creator of [C
 
 Thanks for help to make the Gruvbox theme better.
 
-Copyright (C) 2022 [PC](https://github.com/priyanshu1208)
+Copyright (C) 2022 
