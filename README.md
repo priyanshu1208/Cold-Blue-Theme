@@ -8,12 +8,11 @@
   <br>
 </h1>
 
-<h4 align="center">Dark theme to VS Code editor</h4>
-
 
 ## About
 
 A [Cold Blue](https://marketplace.visualstudio.com/items?itemName=ColdBlueTheme.cold-blue-theme) theme for VS Code editor for those who like to code at night
+<br>
 <br>
 ## Installation
 
@@ -32,6 +31,7 @@ ext install ColdBlueTheme.cold-blue-theme
 ## Variants
 
 -   Dark - Medium Contrast
+<br>
 
 ## Contributing
 
