@@ -1,7 +1,7 @@
 <h1 align="center">
   <br>
   <a href="https://marketplace.visualstudio.com/items?itemName=jdinhlife.gruvbox">
-    <img src"logo (2).png">
+    <img src"logo.png">
   </a>
   <br>
   Cold Blue Theme
@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://marketplace.visualstudio.com/items?itemName=jdinhlife.gruvbox">
-    <img src="https://vsmarketplacebadge.apphb.com/version-short/jdinhlife.gruvbox.svg?style=flat-square" alt="Version">
+    <img src="https://vsmarketplacebadge.apphb.com/version/Cold%20Blue%20theme.svg" alt="Version">
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=jdinhlife.gruvbox">
     <img src="https://vsmarketplacebadge.apphb.com/installs/jdinhlife.gruvbox.svg?style=flat-square" alt="Installs">

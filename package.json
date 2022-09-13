@@ -1,10 +1,10 @@
 {
   "name": "cold-blue-theme",
   "displayName": "Cold Blue Theme ",
-  "description": "Another VS Code best dark theme in the list is Cold Blue Theme",
+  "description": "A Visual Studio Code theme for those of us who like to code late into the night",
   "version": "0.1.0",
   "publisher": "PriyanshuChugh",
-  "icon": "logo (2).png",
+  "icon": "logo.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/priyanshu1208/Cold-Blue-Theme"
