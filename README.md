@@ -1,7 +1,6 @@
 <div align="center" >
   <br>
-  <a href="https://marketplace.visualstudio.com/items?itemName=jdinhlife.gruvbox">
-    <img src = "logo.png">
+  <a href="https://marketplace.visualstudio.com/items?itemName=ColdBlueTheme.cold-blue-theme"><img src="https://i.ibb.co/CBThdhw/logo.png" alt="logo" border="0" /></a>
   </a>
 
 </div>
