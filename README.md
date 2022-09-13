@@ -6,8 +6,6 @@
 
 </div>
 <br>
-<br>
-
 
 ## About
 
@@ -51,6 +49,6 @@ See [changelog](CHANGELOG.md).
 
 Special thank to [Priyanshu](https://github.com/priyanshu1208) the creator of [Cold Blue](https://marketplace.visualstudio.com/items?itemName=ColdBlueTheme.cold-blue-theme) theme.
 
-Thanks for help to make the Gruvbox theme better.
+Thanks for help to make the Cold Blue theme better.
 
 Copyright (C) 2022 
