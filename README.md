@@ -3,10 +3,7 @@
   <a href="https://marketplace.visualstudio.com/items?itemName=jdinhlife.gruvbox">
     <img src = "logo.png">
   </a>
-  <br>
- <h1> Cold Blue Theme
- </h1>
-  <br>
+
 </div>
 <br>
 <br>
