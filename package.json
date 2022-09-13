@@ -2,7 +2,7 @@
   "name": "cold-blue-theme",
   "displayName": "Cold Blue Theme ",
   "description": "A Visual Studio Code theme for those of us who like to code late into the night",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "publisher": "ColdBlueTheme",
   "icon": "logo.png",
   "repository": {
