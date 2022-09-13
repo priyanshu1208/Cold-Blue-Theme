@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center" style = "border-bottom : 0px !important;">
   <br>
   <a href="https://marketplace.visualstudio.com/items?itemName=jdinhlife.gruvbox">
     <img src = "logo.png">
@@ -7,6 +7,8 @@
   Cold Blue Theme
   <br>
 </h1>
+<br>
+<br>
 
 
 ## About
