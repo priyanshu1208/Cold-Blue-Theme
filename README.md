@@ -33,17 +33,18 @@ ext install ColdBlueTheme.cold-blue-theme
 
 -   Dark - Medium Contrast
 
-<br>
 ## Contributing
 
 Please, report issues/bugs and suggestions for improvements to the issue [here](https://github.com/priyanshu1208/Cold-Blue-Theme/issues).
 
 We're not users of Light versions so we need help to make light versions better. Please contribute if you have any suggestions. **PRs are welcomed!** :rocket:
 <br>
+<br>
 
 ## Release Notes
 
 See [changelog](CHANGELOG.md).
+<br>
 <br>
 
 ## Credits
